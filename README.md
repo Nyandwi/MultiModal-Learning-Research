@@ -1,6 +1,6 @@
 # Multimodal Learning Research
 
-Multimodal Learning(MML) is a branch of machine learning that deals with designing models that can learn from multiple modalities such as vision, language, robotic actions, etc...MML is a hot area in AI research. AI systems that learn from single modality have advanced rapidly in recent times. We have witnessed language models that can understand texts, image models that can recognize images, etc...Although those systems are not perfect yet, it's fair to say that "learning from single modality" is solved to some extent. A key challenge now is how to design AI systems that can jointly learn and generalize across multiple modalities. The kind of systems that can understand, texts, robotic actions, etc...
+Multimodal Learning(MML) is a branch of machine learning that deals with designing models that can learn from multiple modalities such as vision, language, robotic actions, etc...MML is a hot area in AI research. AI systems that learn from single modality have advanced rapidly in recent times. We have witnessed language models that can understand texts, image models that can recognize images, etc...Although those systems are not perfect yet, it's fair to say that "learning from single modality" is solved to some extent. A key challenge now is how to design AI systems that can jointly learn and generalize across multiple modalities at a large scale. The kind of systems that can understand, texts, robotic actions, etc...
 
 This repository is a collection of progress happening in Multimodal learning. It features lecture videos, papers, books, and blog posts.
 
@@ -36,6 +36,11 @@ This repository is a collection of progress happening in Multimodal learning. It
 
 * Multimodal Machine Learning: A Survey and Taxonomy: [Arxiv](https://arxiv.org/abs/1705.09406)| 2017
 
+************
+## Books
+
+* Multimodal Deep Learning: [Web](https://slds-lmu.github.io/seminar_multimodal_dl/index.html) | [Arxiv](https://arxiv.org/abs/2301.04856) | 2023
+
 ***********************
 ## Papers by Categories
 
@@ -53,7 +58,10 @@ Features papers about multimodal representation learning and task-specific paper
 
 #### Visual Question Answering
 
-#### Video Learning
+### Video Learning
+
+
+## Multimodal Robotic Learning
 
 ***********************
 
