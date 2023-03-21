@@ -1,8 +1,21 @@
 # Multimodal Learning Research
 
-Multimodal Learning(MML) is a branch of machine learning that deals with designing models that can learn from multiple modalities such as vision, language, robotic actions, etc...MML is a hot area in AI research. AI systems that learn from single modality have advanced rapidly in recent times. We have witnessed language models that can understand texts, image models that can recognize images, etc...Although those systems are not perfect yet, it's fair to say that "learning from single modality" is solved to some extent. A key challenge now is how to design AI systems that can jointly learn and generalize across multiple modalities at a large scale. The kind of systems that can understand, texts, robotic actions, etc...
+Multimodal Learning(MML) is a branch of machine learning that deals with designing models that can learn from multiple modalities such as vision, language, robotic actions, etc...MML is a hot area in AI research. AI systems that learn from single modality have advanced rapidly in recent times. We have witnessed language models that can understand texts, image models that can recognize images, etc...Although those systems are not perfect yet, they reasonably generalize well on the modalities they were trained on. A key challenge now is how to design AI systems that can jointly learn and generalize across multiple modalities at a large scale. The kind of systems that can understand, texts, robotic actions, speech, etc...
 
-This repository is a collection of progress happening in Multimodal learning. It features lecture videos, papers, books, and blog posts.
+This repository is a collection of progress happening in multimodal learning. It features lecture videos, papers, books, and blog posts. Contributions are welcome!
+
+**What's in here:**
+* [Courses & Lecture Videos](#books)
+
+* [Relevant Workshops](#relevant-workshops)
+
+* [Survey Papers](#survey-papers)
+
+* [Books](#books)
+
+* [Papers](#papers-by-categories)
+
+* [Blog posts](#blog-posts)
 
 ## Courses & Videos
 
@@ -48,6 +61,13 @@ Features papers about multimodal representation learning and task-specific paper
 
 ### General MML Representation Learning
 
+* [PINNED] Learning Transferable Visual Models From Natural Language Supervision: [ArXiv](https://arxiv.org/abs/2103.00020) | [Code](https://github.com/OpenAI/CLIP) | [Blog](https://openai.com/research/clip) |  2021
+
+**************
+
+* 
+
+
 ### Task Specific
 
 #### Text-Image generation
@@ -60,9 +80,16 @@ Features papers about multimodal representation learning and task-specific paper
 
 ### Video Learning
 
+### Robotic Learning
 
-## Multimodal Robotic Learning
+### Applications
 
 ***********************
 
 ## Blog Posts
+
+
+******************
+
+
+https://github.com/phellonchen/awesome-Vision-and-Language-Pre-training#visual-machine-reading-comprehension
