@@ -61,7 +61,7 @@ Features papers about multimodal representation learning and task-specific paper
 
 ### General MML Representation Learning
 
-* [PINNED] Learning Transferable Visual Models From Natural Language Supervision: [ArXiv](https://arxiv.org/abs/2103.00020) | [Code](https://github.com/OpenAI/CLIP) | [Blog](https://openai.com/research/clip) |  2021
+* [PINNED] Learning Transferable Visual Models From Natural Language Supervision: [ArXiv](https://arxiv.org/abs/2103.00020) | [Code](https://github.com/OpenAI/CLIP) | [Blog](https://openai.com/research/clip) | [Colab](https://colab.research.google.com/github/openai/clip/blob/master/notebooks/Interacting_with_CLIP.ipynb) [CLIP on HF](https://huggingface.co/docs/transformers/model_doc/clip)  2021
 
 **************
 
@@ -81,13 +81,17 @@ Features papers about multimodal representation learning and task-specific paper
 ### Video Learning
 
 ### Robotic Learning
+* A Picture is Worth a Thousand Words: Language Models Plan from Pixels: [ArXiv](https://arxiv.org/pdf/2303.09031.pdf) | 2023
+
+* PaLM-E: An Embodied Multimodal Language Model[ArXiv](https://arxiv.org/pdf/2303.03378.pdf) | [Page](https://palm-e.github.io) | [Blog](https://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html) | 2023
+
+* 
 
 ### Applications
 
 ***********************
 
 ## Blog Posts
-
 
 ******************
 
