@@ -61,9 +61,11 @@ Features papers about multimodal representation learning and task-specific paper
 
 ### General MML Representation Learning
 
-* [PINNED] Learning Transferable Visual Models From Natural Language Supervision: [ArXiv](https://arxiv.org/abs/2103.00020) | [Code](https://github.com/OpenAI/CLIP) | [Blog](https://openai.com/research/clip) | [Colab](https://colab.research.google.com/github/openai/clip/blob/master/notebooks/Interacting_with_CLIP.ipynb) [CLIP on HF](https://huggingface.co/docs/transformers/model_doc/clip)  2021
+* [PINNED] Learning Transferable Visual Models From Natural Language Supervision: [ArXiv](https://arxiv.org/abs/2103.00020) | [Code](https://github.com/OpenAI/CLIP) | [Blog](https://openai.com/research/clip) | [Colab](https://colab.research.google.com/github/openai/clip/blob/master/notebooks/Interacting_with_CLIP.ipynb) [CLIP on HF](https://huggingface.co/docs/transformers/model_doc/clip)  Feb 2021
 
 **************
+
+* EVA-CLIP: Improved Training Techniques for CLIP at Scale: [ArXiv](https://arxiv.org/abs/2303.15389) | [Code](https://github.com/baaivision/EVA/tree/master/EVA-CLIP) | March 2023
 
 * 
 
@@ -85,9 +87,13 @@ Features papers about multimodal representation learning and task-specific paper
 
 * PaLM-E: An Embodied Multimodal Language Model[ArXiv](https://arxiv.org/pdf/2303.03378.pdf) | [Page](https://palm-e.github.io) | [Blog](https://ai.googleblog.com/2023/03/palm-e-embodied-multimodal-language.html) | 2023
 
-* 
+### Applications Connecting Multimodals
 
-### Applications
+* HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace - [ArXiv](https://arxiv.org/abs/2303.17580) | [Code](https://github.com/microsoft/JARVIS) | March 2023
+
+* Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models - [ArXiv](https://arxiv.org/abs/2303.04671) | [Code](https://github.com/microsoft/visual-chatgpt) | [Colab](https://colab.research.google.com/drive/11BtP3h-w0dZjA-X8JsS9_eo8OeGYvxXB#scrollTo=8nCGkaV0_xBP) | [Spaces](https://huggingface.co/spaces/microsoft/visual_chatgpt)
+
+* ViperGPT: Visual Inference via Python Execution for Reasoning - [Paper](https://arxiv.org/abs/2303.08128) | [Code](https://github.com/cvlab-columbia/viper) | [Page](https://viper.cs.columbia.edu) | March 2023
 
 ***********************
 
