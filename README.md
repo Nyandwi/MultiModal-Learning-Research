@@ -61,13 +61,13 @@ Features papers about multimodal representation learning and task-specific paper
 
 ### General MML Representation Learning
 
-* [PINNED] Learning Transferable Visual Models From Natural Language Supervision: [ArXiv](https://arxiv.org/abs/2103.00020) | [Code](https://github.com/OpenAI/CLIP) | [Blog](https://openai.com/research/clip) | [Colab](https://colab.research.google.com/github/openai/clip/blob/master/notebooks/Interacting_with_CLIP.ipynb) [CLIP on HF](https://huggingface.co/docs/transformers/model_doc/clip)  Feb 2021
+* Learning Transferable Visual Models From Natural Language Supervision: [ArXiv](https://arxiv.org/abs/2103.00020) | [Code](https://github.com/OpenAI/CLIP) | [Blog](https://openai.com/research/clip) | [Colab](https://colab.research.google.com/github/openai/clip/blob/master/notebooks/Interacting_with_CLIP.ipynb) [CLIP on HF](https://huggingface.co/docs/transformers/model_doc/clip)  Feb 2021
 
 **************
 
-* EVA-CLIP: Improved Training Techniques for CLIP at Scale: [ArXiv](https://arxiv.org/abs/2303.15389) | [Code](https://github.com/baaivision/EVA/tree/master/EVA-CLIP) | March 2023
+* LLaVA - Visual Instruction Tuning: [ArXiv](https://arxiv.org/pdf/2304.08485.pdf) | [Page](https://llava-vl.github.io) | [Code](https://github.com/haotian-liu/LLaVA)  | April 2023
 
-* 
+* EVA-CLIP - Improved Training Techniques for CLIP at Scale: [ArXiv](https://arxiv.org/abs/2303.15389) | [Code](https://github.com/baaivision/EVA/tree/master/EVA-CLIP) | March 2023
 
 
 ### Task Specific
