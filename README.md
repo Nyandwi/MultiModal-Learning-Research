@@ -74,6 +74,10 @@ Features papers about multimodal representation learning and task-specific paper
 
 #### Text-Image generation
 
+#### Text-Image generation
+* Video LM: Align your Latents:
+High-Resolution Video Synthesis with Latent Diffusion Models: [ArXiv](https://arxiv.org/abs/2304.08818) | [Page](https://research.nvidia.com/labs/toronto-ai/VideoLDM/) | April 2023
+
 #### Text-image Retrieval
 
 #### Image Captioning
