@@ -41,6 +41,8 @@ This repository is a collection of progress happening in multimodal learning. It
 
 ## Survey Papers
 
+* Foundations and Trends in Multimodal Machine Learning: Principles, Challenges, and Open Questions: [ArXiv](https://arxiv.org/abs/2209.03430) | 2022
+
 * Vision-Language Pre-training: Basics, Recent Advances, and Future Trend: [ArXiv 2022](https://arxiv.org/abs/2210.09263)
 
 * VLP: A Survey on Vision-Language Pre-training: [ArXiv](https://arxiv.org/abs/2202.09061) | 2022
