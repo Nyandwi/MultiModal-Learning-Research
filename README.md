@@ -105,7 +105,10 @@ High-Resolution Video Synthesis with Latent Diffusion Models: [ArXiv](https://ar
 
 ## Blog Posts
 
+* Generalized Visual Language Models by Lilian Weng: [blog](https://lilianweng.github.io/posts/2022-06-09-vlm/) | 2022
+
 ******************
 
+## Related Repositories
 
-https://github.com/phellonchen/awesome-Vision-and-Language-Pre-training#visual-machine-reading-comprehension
+* [Awesome Vision and Language Pretraining](https://github.com/phellonchen/awesome-Vision-and-Language-Pre-training#visual-machine-reading-comprehension)
